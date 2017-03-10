@@ -5,17 +5,20 @@ Valuable because: basic mastery is required and will help with the rest of the c
 ### Moving around your computer
 * review commands for moving around `ls`, `cd`, `pwd`
 * review path shortcuts `.`, `..`, `~`
-* review filesystem commands - `touch`, `mkdir`, `rm`, `rm -r`, `rm -rf`, `cp`, `mv`
+* review filesystem commands `touch`, `mkdir`, `rm`, `rm -r`, `rm -rf`, `cp`, `mv`
 * relative vs absolute path and how this affects commands for moving around
 
 ### Level up
-* advanced `ls` -- `-a`, `-A`, -l`
+* advanced `ls`: `-a`, `-A`, `-l`
+* keyboard shortcuts: `C+L`, `C+U`, `C+A`, `C+E`
 * wildcard (`*`), autocomplete (double tab)
 * Intro to `grep`
 * `less` and `more`
 * pipe (combine) multiple bash commands
-* `history` then `history | less` (press `q` to exit)
+* `history` then `history | less`
+* navigate `history | less`: `h`, `i`, `j`, `k`, `C+F`, `C+B`, `q`
 * `ls -l | grep`
+* `history | grep`
 
 ## Everyday `git`
 Valuable because: `git` is the only version control system we are using, and these commands are
