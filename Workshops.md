@@ -28,6 +28,7 @@ enough to master the leading `git` flows
 * `git commit`
 * `git push`
 * `git pull`
+* `.git` and `.git/config`
 * `git branch`
 * `git checkout`
 * `git merge`
@@ -35,9 +36,11 @@ enough to master the leading `git` flows
 * `git cherry-pick`
 * `git revert`
 * `git help <command>`
-* `git yo momma`
 
-## Deepter dive into CSS Selectors
+## Deeper dive into CSS Selectors
 Valuable because: very common interview questions, applicable to JavaScript and CSS, will help with jQuery
 * Review of HTML, Tags, Attributes, IDs and Classes
 * See: https://www.w3.org/TR/css3-selectors/#selectors
+
+## MySQL Installation
+Seriously
