@@ -17,12 +17,12 @@ Valuable because: basic mastery is required and will help with the rest of the c
 * advanced `ls`: `-a`, `-A`, `-l`
 * keyboard shortcuts: `C+L`, `C+U`, `C+A`, `C+E`, `C+C`
 * wildcard (`*`), autocomplete (double tab)
-* `less` and `more`
+* `less`, `more`, `cat`
 * pipe (combine) multiple bash commands
 * `history` then `history n` then `history | less`
 * recall: `!!`
 * navigate `history | less`: `h`, `i`, `j`, `k`, `C+F`, `C+B`, `q`, `G`, `gg`, `/word`
-* Intro to `grep`
+* basic `grep`
 * `ls -l | grep`
 * `history | grep`
 
